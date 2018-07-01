@@ -8,4 +8,4 @@ currently using HTML and CSS
 ## Support and contact details
 If you have any problems you can always slack me @ Keller
 ### License
-MIT C Kellen_Njoroge
+Licensed under the [MIT license](LICENSE).
